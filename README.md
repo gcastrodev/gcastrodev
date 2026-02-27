@@ -19,14 +19,6 @@ I am a software developer focused on building scalable and high-performance appl
 ### 📊 GitHub Stats
 
 <p align="center">
-<img height="180em" src="https://metrics.lecoq.io/gcastrodev?template=classic&config.timezone=America%2FSao_Paulo" alt="GitHub Metrics" />
-</p>
-
-<p align="center">
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=gcastrodev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gcastrodev&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
