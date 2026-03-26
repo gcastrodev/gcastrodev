@@ -1,22 +1,29 @@
-<!-- HERO SECTION -->
+<!-- HERO ULTRA ANIMADO -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:0f2027,100:2c5364&text=Gabriel%20Castro&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer&descAlignY=70" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:000000,100:0f2027&text=Gabriel%20Castro&fontSize=60&fontColor=00F7FF&animation=fadeIn&desc=Full%20Stack%20Developer%20|%20Next.js%20|%20Node.js&descSize=20&descAlignY=75" />
 </p>
 
+<!-- TYPING SUPERIOR -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?size=28&center=true&vCenter=true&width=900&lines=Building+Scalable+Applications;Next.js+%2B+Node.js+Specialist;Clean+Code+Advocate;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com/?size=32&center=true&vCenter=true&width=1000&lines=Building+Scalable+Applications;Crafting+Modern+Web+Experiences;Clean+Code+%7C+High+Performance;Turning+Ideas+Into+Real+Products" />
+</p>
+
+<!-- BADGES -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gcastrodev&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/gcastrodev?style=for-the-badge" />
 </p>
 
 ---
 
-## 🧠 Who Am I
+## 🧠 About Me
 
 ```ts
 const gabriel = {
   role: "Full Stack Developer",
+  specialties: ["Next.js", "React", "Node.js"],
   focus: ["Performance", "Scalability", "Clean Code"],
-  stack: ["Next.js", "React", "Node.js"],
-  currentlyLearning: ["Microservices", "Cloud"],
+  currentlyLearning: ["Microservices", "Cloud Architecture"],
 };
 ```
 
@@ -30,25 +37,56 @@ const gabriel = {
 
 ---
 
-## 🚀 Featured Project
+# 🚀 Projects Showcase
+
+## 💈 Barbearia Gustavo Bitencourt
 
 <p align="center">
-  <a href="https://gcastrodev.github.io/jo-ken-po/">
-    <img width="800" src="https://github-readme-stats.vercel.app/api/pin/?username=gcastrodev&repo=jo-ken-po&theme=tokyonight&hide_border=true" />
+  <a href="https://barbeariagustavobitencourt.com.br">
+    <img src="https://img.shields.io/badge/🌐%20Acessar%20Projeto-000?style=for-the-badge" />
   </a>
 </p>
 
 <p align="center">
-  🎮 Interactive Rock Paper Scissors built with focus on clean logic and UI
+  Website profissional para barbearia com foco em presença digital e experiência do usuário.
 </p>
 
 ---
 
-## 📊 Dev Dashboard
+## 💅 Studio Beauty Maria Castro
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gcastrodev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gcastrodev&layout=compact&theme=tokyonight&hide_border=true" />
+  <a href="https://studiobeautymariacastro.com.br">
+    <img src="https://img.shields.io/badge/🌐%20Acessar%20Projeto-000?style=for-the-badge" />
+  </a>
+</p>
+
+<p align="center">
+  Plataforma moderna para estúdio de beleza com design elegante e responsivo.
+</p>
+
+---
+
+## 🎮 Jo-Ken-Po Game
+
+<p align="center">
+  <a href="https://gcastrodev.github.io/jo-ken-po/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gcastrodev&repo=jo-ken-po&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://gcastrodev.github.io/jo-ken-po/">🔗 Live</a> • 
+  <a href="https://github.com/gcastrodev/jo-ken-po">📂 Code</a>
+</p>
+
+---
+
+## 📊 GitHub Dashboard
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gcastrodev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gcastrodev&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -75,19 +113,19 @@ const gabriel = {
 
 ---
 
-## ☕ Philosophy
+## ☕ Dev Mindset
 
 <p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="280"/>
 </p>
 
 <p align="center">
-  <b>"Great software is built with consistency, not shortcuts."</b>
+  <b>"Discipline builds systems. Systems build success."</b>
 </p>
 
 ---
 
 <!-- FOOTER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f2027,100:2c5364&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:000000,100:0f2027&section=footer"/>
 </p>
