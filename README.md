@@ -1,36 +1,93 @@
-# Hi there, I'm Gabriel Castro! 👋
-
-### 🚀 Full Stack Developer
-
-I am a software developer focused on building scalable and high-performance applications. I'm passionate about the JavaScript ecosystem and solving complex problems with clean, efficient code.
-
----
-
-### 🛠️ Tech Stack & Tools
-
-| Category | Stack |
-| :--- | :--- |
-| **Frontend** | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white) |
-| **Backend & DB** | ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) |
-| **DevOps & Infra** | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) |
-
----
-
-### 📊 GitHub Stats
+<!-- HEADER ANIMADO -->
+<h1 align="center">
+  Hi 👋, I'm Gabriel Castro
+</h1>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gcastrodev&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;JavaScript+Specialist;Building+Scalable+Apps;Always+Learning+New+Things" />
 </p>
 
 ---
 
-### 📫 Let's Connect!
+## 🚀 About Me
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-castro-b39b50358/)
+💻 Full Stack Developer focused on building **scalable**, **high-performance** applications.  
+⚡ Passionate about clean code, problem-solving and modern web technologies.  
+
+- 🔭 Working with **Next.js & Node.js**
+- 🌱 Learning **Microservices & System Design**
+- 💬 Ask me about **React, TypeScript, APIs**
 
 ---
 
-### ⚡ More About Me
-* 🔭 Currently working on Full Stack projects using **Next.js** and **Node.js**.
-* 🌱 Studying microservices architecture and database performance.
-* 💬 Ask me about React, TypeScript, or why coffee is essential for a successful deploy.
+## 🛠️ Tech Stack
+
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,next,html,css" />
+</p>
+
+### ⚙️ Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,postgres,firebase" />
+</p>
+
+### 🧠 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,c" />
+</p>
+
+### 🧰 Tools & IDEs
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge" />
+</p>
+
+### 🚀 DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=docker" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gcastrodev&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gcastrodev&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gcastrodev&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🧠 Currently Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,kubernetes" />
+</p>
+
+---
+
+## 🌐 Connect with me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/gabriel-castro-b39b50358/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+☕ Coffee + Code = Deploy without fear 🚀
+
+---
+
+<!-- FOOTER ANIMADO -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
+</p>
