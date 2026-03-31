@@ -102,7 +102,7 @@ const gabrielCastro = {
   <a href="https://www.linkedin.com/in/gabriel-castro-b39b50358/">
     <img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:seu-email@exemplo.com">
+  <a href="mailto:seu-gabriel.kpact@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
