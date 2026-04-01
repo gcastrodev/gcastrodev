@@ -1,6 +1,6 @@
 <!-- HERO SECTION -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:000000,100:0f2027&text=Gabriel%20Castro&fontSize=60&fontColor=00F7FF&animation=fadeIn&desc=Senior%20Software%20Engineer%20|%20Distributed%20Systems%20|%20Cloud%20Architecture&descSize=20&descAlignY=75" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:000000,100:0f2027&text=Gabriel%20Castro&fontSize=60&fontColor=00F7FF&animation=fadeIn&desc=Pleno%20Software%20Engineer%20|%20Distributed%20Systems%20|%20Cloud%20Architecture&descSize=20&descAlignY=75" />
 </p>
 
 <!-- TYPING ANIMATION -->
