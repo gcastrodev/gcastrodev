@@ -12,7 +12,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gcastrodev&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" />
   <img src="https://img.shields.io/github/followers/gcastrodev?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Pleno-Engineer-00F7FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Júnior-Engineer-00F7FF?style=for-the-badge" />
 </p>
 
 ---
