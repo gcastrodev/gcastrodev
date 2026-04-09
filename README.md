@@ -25,7 +25,7 @@ const gabrielCastro = {
   location: "Global / Remote",
   expertise: {
     frontend: ["Next.js 15+", "React Server Components", "Performance Optimization"],
-    backend: ["Node.js Microservices", "Python (FastAPI/Django)", "Distributed Systems"],
+    backend: ["Node.js", "Python (FastAPI/Django)", "Distributed Systems"],
     infrastructure: ["Linux Administration", "Docker/K8s", "AWS/Cloud Architecture"],
     methodologies: ["Domain-Driven Design (DDD)", "TDD", "CI/CD Automation"]
   },
