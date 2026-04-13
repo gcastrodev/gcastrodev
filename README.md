@@ -25,7 +25,7 @@ const gabrielCastro = {
   location: "Global / Remote",
   expertise: {
     frontend: ["Next.js 15+", "React Server Components", "Performance Optimization"],
-    backend: ["Node.js", "Python (FastAPI/Django)", "Distributed Systems"],
+    backend: ["Node.js", "Python (FastAPI/Django)", "C/C++"],
     infrastructure: ["Linux Administration", "Docker/K8s", "AWS/Cloud Architecture"],
     methodologies: ["Domain-Driven Design (DDD)", "TDD", "CI/CD Automation"]
   },
@@ -44,7 +44,7 @@ const gabrielCastro = {
 
 ### 🔧 Specialized Tools & Environment
 - **Backend & Scripting:** Python (Automation, Data Processing), C/C++ (Performance-critical modules).
-- **Infrastructure:** Linux (Debian/Ubuntu/Arch), Bash Scripting, Nginx, Docker Compose.
+- **Infrastructure:** Linux (CachyOs/Arch), Bash Scripting, Nginx, Docker Compose.
 - **Database & Cache:** PostgreSQL (Advanced Querying), Redis, MongoDB.
 - **DevOps:** GitHub Actions, CI/CD Pipelines, Cloudflare.
 
