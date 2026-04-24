@@ -5,7 +5,7 @@
 
 <!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?size=32&center=true&vCenter=true&width=1000&lines=Architecting+Scalable+Distributed+Systems;Expert+in+Next.js,+Node.js+%26+Python;Linux+Power+User+%26+DevOps+Enthusiast;Driving+Business+Value+Through+Clean+Code" />
+  <img src="https://readme-typing-svg.herokuapp.com/?size=32&center=true&vCenter=true&width=1000&lines=Architecting+Scalable+Distributed+Systems;Expert+in+Next.js,+React,+Node.js+%26+Python;Fastify,+PostgreSQL,+Drizzle+ORM+%26+AI+Search;Driving+Business+Value+Through+Clean+Code" />
 </p>
 
 <!-- BADGES -->
@@ -23,99 +23,119 @@
 const gabrielCastro = {
   title: "Software Engineer",
   location: "Global / Remote",
+  focus: [
+    "Scalable Web Platforms",
+    "Distributed Systems",
+    "Backend Architecture",
+    "Cloud-Native Delivery"
+  ],
   expertise: {
-    frontend: ["Next.js 15+", "React Server Components", "Performance Optimization"],
-    backend: ["Node.js", "Python (FastAPI/Django)", "C/C++"],
-    infrastructure: ["Linux Administration", "Docker/K8s", "AWS/Cloud Architecture"],
-    methodologies: ["Domain-Driven Design (DDD)", "TDD", "CI/CD Automation"]
+    frontend: [
+      "Next.js 15+",
+      "React",
+      "JavaScript",
+      "TypeScript",
+      "HTML5",
+      "CSS3",
+      "Tailwind CSS",
+      "shadcn/ui",
+      "Performance Optimization"
+    ],
+    backend: [
+      "Node.js",
+      "Fastify",
+      "Python (FastAPI/Django)",
+      "REST APIs",
+      "C/C++"
+    ],
+    data: [
+      "PostgreSQL",
+      "Drizzle ORM",
+      "Redis",
+      "MongoDB"
+    ],
+    infrastructure: [
+      "Linux Administration",
+      "Docker/K8s",
+      "AWS/Cloud Architecture",
+      "Nginx",
+      "Cloudflare"
+    ],
+    methodologies: [
+      "Domain-Driven Design (DDD)",
+      "TDD",
+      "CI/CD Automation",
+      "Type-Safe Development",
+      "AI-Assisted Workflows"
+    ]
   },
   mission: "Building resilient, high-performance systems that scale with business growth."
 };
-```
 
----
+🛠️ Advanced Tech Stack
+🚀 Core Technologies
 
-## 🛠️ Advanced Tech Stack
+🔧 Specialized Tools & Environment
 
-### 🚀 Core Technologies
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,next,nodejs,python,postgres,docker,aws,linux&perline=8" />
-</p>
+⚙️ Engineering Toolbox
 
-### 🔧 Specialized Tools & Environment
-- **Backend & Scripting:** Python (Automation, Data Processing), C/C++ (Performance-critical modules).
-- **Infrastructure:** Linux (CachyOs/Arch), Bash Scripting, Nginx, Docker Compose.
-- **Database & Cache:** PostgreSQL (Advanced Querying), Redis, MongoDB.
-- **DevOps:** GitHub Actions, CI/CD Pipelines, Cloudflare.
+    Frontend Engineering: Next.js, React, Server Components, responsive UI architecture, performance optimization.
+    Backend Systems: Node.js, Fastify, TypeScript, Python, REST API design, domain-oriented module organization.
+    Database & Query Layer: PostgreSQL, Drizzle ORM, Redis, MongoDB, dynamic query composition.
+    Infra & Ops: Linux (CachyOS/Arch), Docker, Docker Compose, Nginx, Bash Scripting, Cloudflare.
+    Delivery Pipeline: GitHub Actions, CI/CD pipelines, automated environments, clean deployment workflows.
+    AI Integration: OpenAI API, natural language search flows, structured data extraction pipelines.
 
----
+🏛️ Architecture Highlights
+🧠 What My Codebase Reflects
 
-## 🏗️ Featured Engineering Projects
+    Layered backend architecture with clear separation between routes, controllers, services, repositories, and domain schemas.
+    Type-safe development mindset using TypeScript and Zod for request validation and environment safety.
+    Database-first engineering with schema definition, migrations, and consistent persistence modeling.
+    AI-augmented backend design by transforming natural-language queries into structured filters for search workflows.
+    Scalable project organization prepared to evolve from a solid backend foundation into a complete full-stack platform.
 
-### 🦟 Sentinela Londrina | Arbovirus Monitoring System
-*Architect & Lead Developer (Frontend & Data Layer)*
-- **The Challenge:** Processing complex epidemiological data from PDFs into real-time visual intelligence.
-- **The Solution:** Built a high-performance Next.js dashboard integrated with a Python-based AI parser (Gemini API) and a C++ backend.
-- **Impact:** Automated data extraction that previously took hours into seconds, providing critical health insights for the city of Londrina.
-- **Tech:** Next.js, Python, C++, Chart.js, Linux.
+📦 Repository Structure Pattern
 
-### 🛡️ Sentinel-Core | Infrastructure Automation Framework
-*Lead DevOps Engineer*
-- **The Challenge:** Managing multi-cloud deployments and ensuring high availability for distributed microservices.
-- **The Solution:** Developed a custom Python-based CLI tool for automated Linux server provisioning, Nginx configuration, and Docker container orchestration.
-- **Impact:** Reduced deployment time by 70% and eliminated manual configuration errors across staging and production environments.
-- **Tech:** Python, Linux (Bash), Docker, GitHub Actions.
+api-carshop/
+  backend/
+    src/
+      app.ts
+      server.ts
+      config/
+        env.ts
+      db/
+        client.ts
+        schema/
+        migrations/
+      modules/
+        cars/
+          cars.routes.ts
+          cars.controller.ts
+          cars.service.ts
+          cars.repository.ts
+          cars.schema.ts
+          search/
+            ai-search-agent.service.ts
+            search-query-builder.ts
+  frontend/
+    # reserved for future web application
 
-### 📊 Data-Stream-API | High-Throughput Processing Engine
-*Backend Architect*
-- **The Challenge:** Handling high-volume real-time data streams with low latency requirements.
-- **The Solution:** Engineered a scalable Node.js/TypeScript API utilizing Redis for caching and PostgreSQL for persistent storage, optimized for high concurrency.
-- **Impact:** Achieved sub-100ms response times for complex data queries under heavy load.
-- **Tech:** Node.js, TypeScript, Redis, PostgreSQL.
+🚀 Engineering Strengths
 
----
+    Builds systems with clear service boundaries instead of mixing business logic into route handlers.
+    Prioritizes maintainability and extensibility, not just “making it work”.
+    Applies validation close to the edge and domain logic in the core, which improves reliability.
+    Thinks in terms of architecture, performance, and evolution path, not only isolated features.
 
-## 📊 Engineering Metrics
+📊 Engineering Metrics
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=gcastrodev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gcastrodev&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+🐍 Continuous Integration & Activity
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=gcastrodev&theme=tokyonight&hide_border=true" />
-</p>
+🌐 Professional Network
 
----
+💡 Engineering Philosophy
 
-## 🐍 Continuous Integration & Activity
+    "Software engineering is not just about writing code; it's about managing complexity and delivering sustainable value. I build systems that are easy to maintain, hard to break, and ready to scale."
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/gcastrodev/gcastrodev/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## 🌐 Professional Network
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/gabriel-castro-b39b50358/">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:seu-gabriel.kpact@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" />
-  </a>
-</p>
-
----
-
-## 💡 Engineering Philosophy
-
-> "Software engineering is not just about writing code; it's about managing complexity and delivering sustainable value. I build systems that are easy to maintain, hard to break, and ready to scale."
-
----
-
-<!-- FOOTER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:000000,100:0f2027&section=footer"/>
-</p>
+``` 
