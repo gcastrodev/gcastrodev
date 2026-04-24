@@ -43,23 +43,43 @@ const gabrielCastro = {
   mission: "Build efficient, maintainable and scalable systems."
 };
 ```
-🛠️ Tech Stack
-🚀 Core Technologies
-<p align="left"> <img src="https://skillicons.dev/icons?i=ts,js,react,next,nodejs,python,postgres,mongodb,docker,aws,linux,html,css,tailwind&perline=8" /> </p>
-🔧 Backend & Architecture
-Fastify (high-performance APIs)
-Drizzle ORM (type-safe SQL)
-Zod (schema validation)
-RESTful API design
-Modular architecture (feature-based structure)
-⚙️ DevOps & Environment
-Linux (Arch/CachyOS)
-Bash scripting
-Docker & Docker Compose
-Nginx
-GitHub Actions (CI/CD)
-📊 Engineering Metrics
-<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=gcastrodev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gcastrodev&layout=compact&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=gcastrodev&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=gcastrodev&theme=tokyonight&no-frame=true&margin-w=10" /> </p>
+## 🛠️ Tech Stack
+
+### 🚀 Core Technologies
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,next,nodejs,python,postgres,mongodb,docker,aws,linux,html,css,tailwind&perline=8" />
+</p>
+
+### 🔧 Backend & Architecture
+- Fastify (high-performance APIs)
+- Drizzle ORM (type-safe SQL)
+- Zod (schema validation)
+- RESTful API design
+- Modular architecture (feature-based structure)
+
+### ⚙️ DevOps & Environment
+- Linux (Arch/CachyOS)
+- Bash scripting
+- Docker & Docker Compose
+- Nginx
+- GitHub Actions (CI/CD)
+
+---
+
+## 📊 Engineering Metrics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gcastrodev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gcastrodev&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=gcastrodev&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gcastrodev&theme=tokyonight&no-frame=true&margin-w=10" />
+</p>
 🐍 Activity & Contributions
 <p align="center"> <img src="https://raw.githubusercontent.com/gcastrodev/gcastrodev/output/github-contribution-grid-snake.svg" /> </p>
 🌐 Professional Network
