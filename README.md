@@ -43,6 +43,9 @@ const gabrielCastro = {
   mission: "Build efficient, maintainable and scalable systems."
 };
 ```
+
+---
+
 ## 🛠️ Tech Stack
 
 ### 🚀 Core Technologies
@@ -80,12 +83,37 @@ const gabrielCastro = {
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=gcastrodev&theme=tokyonight&no-frame=true&margin-w=10" />
 </p>
-🐍 Activity & Contributions
-<p align="center"> <img src="https://raw.githubusercontent.com/gcastrodev/gcastrodev/output/github-contribution-grid-snake.svg" /> </p>
-🌐 Professional Network
-<p align="center"> <a href="https://www.linkedin.com/in/gabriel-castro-b39b50358/"> <img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-blue?style=for-the-badge&logo=linkedin" /> </a> <a href="mailto:seu-gabriel.kpact@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" /> </a> </p>
-💡 Engineering Philosophy
 
-"Good software is not just about working — it's about being maintainable, scalable, and predictable under pressure."
+---
 
-<!-- FOOTER --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:000000,100:0f2027&section=footer"/> </p> ```
+## 🐍 Activity & Contributions
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gcastrodev/gcastrodev/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🌐 Professional Network
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/gabriel-castro-b39b50358/">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:seu-gabriel.kpact@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
+
+---
+
+## 💡 Engineering Philosophy
+
+> "Good software is not just about working — it's about being maintainable, scalable, and predictable under pressure."
+
+---
+
+<!-- FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:000000,100:0f2027&section=footer"/>
+</p>
