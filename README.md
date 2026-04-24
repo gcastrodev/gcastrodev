@@ -42,6 +42,7 @@ const gabrielCastro = {
 
   mission: "Build efficient, maintainable and scalable systems."
 };
+```
 🛠️ Tech Stack
 🚀 Core Technologies
 <p align="left"> <img src="https://skillicons.dev/icons?i=ts,js,react,next,nodejs,python,postgres,mongodb,docker,aws,linux,html,css,tailwind&perline=8" /> </p>
