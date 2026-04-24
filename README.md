@@ -67,4 +67,4 @@ GitHub Actions (CI/CD)
 
 "Good software is not just about working — it's about being maintainable, scalable, and predictable under pressure."
 
-<!-- FOOTER --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:000000,100:0f2027&section=footer"/> </p> ```
+<!-- FOOTER --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:000000,100:0f2027&section=footer"/> </p>
