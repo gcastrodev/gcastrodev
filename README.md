@@ -54,18 +54,6 @@ const gabriel = {
 
 ## Projetos em destaque
 
-### 🏛️ VISA Londrina MVP
-
-MVP full-stack para automação do licenciamento sanitário, com portal de envio de documentos e validação assistida por IA.
-
-O projeto reúne Next.js, Prisma/PostgreSQL, NextAuth, Zod, Docker Compose, migrations, seed, health check, Vitest e modo mock para desenvolvimento local.
-
-### 🎓 Tech Week Client
-
-Frontend de uma plataforma de evento com Next.js App Router, TypeScript, Tailwind CSS, shadcn/ui, Motion, Lenis, Three.js e React Three Fiber.
-
-Inclui integração com API, área administrativa, Server Actions, sessão `httpOnly` e deploy na Vercel.
-
 ### 🚗 API CarShop
 
 API de catálogo de veículos em desenvolvimento, construída com Fastify, TypeScript, Drizzle ORM, PostgreSQL e Zod.
@@ -77,6 +65,12 @@ O projeto também explora busca de carros por linguagem natural utilizando OpenA
 Projeto colaborativo acadêmico para monitoramento de arboviroses com dados públicos.
 
 Minha participação envolve parser em Python e frontend/dashboard em Next.js, em conjunto com os demais integrantes da equipe.
+
+### 🎓 Tech Week Client
+
+Frontend de uma plataforma de evento com Next.js App Router, TypeScript, Tailwind CSS, shadcn/ui, Motion, Lenis, Three.js e React Three Fiber.
+
+Inclui integração com API, área administrativa, Server Actions, sessão `httpOnly` e deploy na Vercel.
 
 <details>
 <summary><strong>Outros projetos</strong></summary>
