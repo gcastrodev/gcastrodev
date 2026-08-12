@@ -31,7 +31,7 @@ Sou Gabriel Castro, desenvolvedor full-stack em formação, com foco prático em
 
 Gosto de transformar requisitos em produtos funcionais: desde autenticação e dashboards até APIs, uploads, fluxos por perfil de usuário e ambientes reproduzíveis com Docker.
 
-Minha experiência pública está concentrada em projetos acadêmicos e MVPs. Atualmente, estou aprofundando testes automatizados, qualidade de código, segurança, modelagem de dados e operação de aplicações.
+Minha experiência pública está concentrada em pequenos projetos e MVPs. Atualmente, estou aprofundando testes automatizados, qualidade de código, segurança, modelagem de dados e operação de aplicações.
 
 ```ts
 const gabriel = {
