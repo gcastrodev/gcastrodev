@@ -48,7 +48,7 @@ const gabriel = {
 | ------------------ | ------------------------------------------------------------------------------------------------- |
 | **Frontend**       | React, Next.js App Router, Vite, Tailwind CSS, shadcn/ui, Motion, React Router e dashboards       |
 | **Backend**        | Node.js, Fastify, Express, APIs REST, autenticação, JWT, Server Actions e integração com serviços |
-| **Dados**          | PostgreSQL, Prisma, Drizzle ORM, Sequelize, migrations, seed e validação com Zod/Yup              |
+| **Dados**          | PostgreSQL, MongoDB, Prisma, Drizzle ORM, Sequelize, migrations, seed e validação com Zod/Yup              |
 | **Infraestrutura** | Docker, Docker Compose, health checks, scripts de ambiente e deploys em Vercel                    |
 | **Qualidade**      | ESLint, Biome, Vitest, separação de responsabilidades e commits orientados a mudanças             |
 
