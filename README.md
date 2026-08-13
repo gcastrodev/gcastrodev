@@ -14,7 +14,7 @@
   <a href="https://www.linkedin.com/in/gabriel-castro-b39b50358/">
     <img src="https://img.shields.io/badge/LinkedIn-Gabriel%20Castro-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="mailto:SEU_EMAIL_AQUI">
+  <a href="mailto:gabriel.kpact@gmail.com">
     <img src="https://img.shields.io/badge/Email-Entre%20em%20contato-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="E-mail" />
   </a>
 </p>
@@ -31,7 +31,7 @@ Sou Gabriel Castro, desenvolvedor full-stack em formação, com foco prático em
 
 Gosto de transformar requisitos em produtos funcionais: desde autenticação e dashboards até APIs, uploads, fluxos por perfil de usuário e ambientes reproduzíveis com Docker.
 
-Minha experiência pública está concentrada em pequenos projetos e MVPs. Atualmente, estou aprofundando testes automatizados, qualidade de código, segurança, modelagem de dados e operação de aplicações.
+Minha experiência pública está concentrada em projetos e MVPs. Atualmente, estou aprofundando testes automatizados, qualidade de código, segurança, modelagem de dados e operação de aplicações.
 
 ```ts
 const gabriel = {
@@ -48,7 +48,7 @@ const gabriel = {
 | ------------------ | ------------------------------------------------------------------------------------------------- |
 | **Frontend**       | React, Next.js App Router, Vite, Tailwind CSS, shadcn/ui, Motion, React Router e dashboards       |
 | **Backend**        | Node.js, Fastify, Express, APIs REST, autenticação, JWT, Server Actions e integração com serviços |
-| **Dados**          | PostgreSQL, MongoDB, Prisma, Drizzle ORM, Sequelize, migrations, seed e validação com Zod/Yup              |
+| **Dados**          | PostgreSQL, MongoDB, Prisma, Drizzle ORM, Sequelize, migrations, seed e validação com Zod/Yup     |
 | **Infraestrutura** | Docker, Docker Compose, health checks, scripts de ambiente e deploys em Vercel                    |
 | **Qualidade**      | ESLint, Biome, Vitest, separação de responsabilidades e commits orientados a mudanças             |
 
@@ -60,17 +60,17 @@ API de catálogo de veículos em desenvolvimento, construída com Fastify, TypeS
 
 O projeto também explora busca de carros por linguagem natural utilizando OpenAI.
 
-### 🛡️ Sentinela Londrina
-
-Projeto colaborativo acadêmico para monitoramento de arboviroses com dados públicos.
-
-Minha participação envolve parser em Python e frontend/dashboard em Next.js, em conjunto com os demais integrantes da equipe.
-
 ### 🎓 Tech Week Client
 
 Frontend de uma plataforma de evento com Next.js App Router, TypeScript, Tailwind CSS, shadcn/ui, Motion, Lenis, Three.js e React Three Fiber.
 
 Inclui integração com API, área administrativa, Server Actions, sessão `httpOnly` e deploy na Vercel.
+
+### 🛡️ Sentinela Londrina
+
+Projeto colaborativo acadêmico para monitoramento de arboviroses com dados públicos.
+
+Minha participação envolve parser em Python e frontend/dashboard em Next.js, em conjunto com os demais integrantes da equipe.
 
 <details>
 <summary><strong>Outros projetos</strong></summary>
@@ -88,15 +88,15 @@ Inclui integração com API, área administrativa, Server Actions, sessão `http
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=gcastrodev&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true" alt="Estatísticas do GitHub de Gabriel Castro" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=gcastrodev&show_icons=true&hide_border=true&theme=tokyonight" alt="Estatísticas do GitHub de Gabriel Castro" />
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gcastrodev&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Linguagens mais usadas por Gabriel Castro" />
 
-<br>
+<br><br>
 
 <img src="https://streak-stats.demolab.com?user=gcastrodev&theme=tokyonight&hide_border=true" alt="Sequência de contribuições de Gabriel Castro" />
 
-<br>
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=gcastrodev&label=VISITAS%20AO%20PERFIL&color=0ea5e9&style=flat-square" alt="Visitas ao perfil" />
 
