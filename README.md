@@ -29,7 +29,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou Gabriel Castro, desenvolvedor full-stack em formação, com foco prático em TypeScript, React, Next.js, Node.js e bancos relacionais e não relacionais.
+Sou Gabriel Castro, desenvolvedor full-stack, com foco prático em TypeScript, React, Next.js, Node.js e bancos relacionais e não relacionais.
 
 Gosto de transformar requisitos em produtos funcionais: desde autenticação e dashboards até APIs, uploads, fluxos por perfil de usuário e ambientes reproduzíveis com Docker.
 
